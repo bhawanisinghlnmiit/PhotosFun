@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386169594517",
+    "project_id": "photosfun-1b9ce",
+    "storage_bucket": "photosfun-1b9ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386169594517:android:86d6da82f9f7400988f19c",
+        "android_client_info": {
+          "package_name": "com.example.photosfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386169594517-03nuliar4fl80jp5ro5ldot3j27a6bki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKFsi4WgEjFcs2BiFIMUta2MC6-RrulU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386169594517-03nuliar4fl80jp5ro5ldot3j27a6bki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
